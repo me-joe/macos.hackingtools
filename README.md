@@ -11,4 +11,12 @@
 - dns2tcp
 - dnsmasq
 - sqlmap
-- 
+- sniffer
+- sffuf
+- gobuster
+- impacket
+- evilginx2
+- sslscan
+- hashcat
+- aircrack-ng
+- airport
