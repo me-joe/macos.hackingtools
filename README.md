@@ -5,3 +5,10 @@
 ### Notes:
 > *This is a my optional opinion!. *
 
+### List Tools For Recommendation.
+- Burpsuite
+- ZapProxy
+- dns2tcp
+- dnsmasq
+- sqlmap
+- 
